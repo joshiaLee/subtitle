@@ -1,6 +1,6 @@
 # 성경 자막 생성 프로그램
 
-1. 성경 텍스트파일을 다운로드 받아주세요
+1. 성경 텍스트 파일을 다운로드 받아주세요
 2. youraddress부분을 본인 컴퓨터ID로 바꿔주세요
 3. python 파일을 실행하면 아래와 같이 문구가 나옵니다 
 ![image](https://user-images.githubusercontent.com/93809073/212460483-4ffccc99-e8b4-4257-a21b-47f7dae01c2a.png) 
