@@ -6,5 +6,6 @@
 ![image](https://user-images.githubusercontent.com/93809073/212460483-4ffccc99-e8b4-4257-a21b-47f7dae01c2a.png) 
 3. 원하는 구절을 입력하세요
 5. 바탕화면에 폴더가 생성되고 내용은 아래와 같습니다.
-![image](https://user-images.githubusercontent.com/93809073/212460566-06d457d8-7b4c-4b2d-86d1-9589cc1242e4.png)
+![image](https://user-images.githubusercontent.com/93809073/212460609-80ebb5f8-3746-44f8-832a-5475584b3b04.png)
+
 
